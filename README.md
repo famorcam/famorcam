@@ -20,7 +20,7 @@ I'm an aspiring data scientist currently upskilling my abilities through the TKH
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via [email](mailto:famorcamickal@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/mickal-famorca]).
+Feel free to reach out to me via [email](mailto:famorcamickal@gmail.com) or connect with me on [LinkedIn]([[https://www.linkedin.com/in/mickal-famorca]](https://www.linkedin.com/in/mickalfamorca/)).
 
 Let's collaborate and create impactful data-driven solutions together!
 
