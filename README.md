@@ -1,6 +1,6 @@
 # Hi there, I'm Mickal Famorca 👋
 
-I'm an aspiring data scientist currently upskilling my abilities through the TKH (The Knowledge House) fellowship. My passion lies in leveraging data to derive meaningful insights and solve complex problems.
+I'm a data science lead instructor at TKH (The Knowledge House) technology fellowship. I'm also a student at BU, where I'm pursuing a Master's Degree in Data Science. My passion lies in leveraging data to derive meaningful insights and solve complex problems.
 
 ## 🔧 Skills
 
@@ -16,7 +16,7 @@ I'm an aspiring data scientist currently upskilling my abilities through the TKH
 
 - Deep learning and neural networks
 - Advanced data visualization techniques
-- Cloud services and big data analytics
+- Cloud services and big data analytics (Azure)
 
 ## 📫 Get in Touch
 
